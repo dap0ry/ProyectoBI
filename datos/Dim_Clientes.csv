@@ -1,0 +1,8 @@
+ClienteID,Nombre_Cliente,Segmento,Nivel_Fidelidad,Genero
+C0436,Elena Rodríguez,Corporativo,Platino,F
+C0304,Javier López,Individual,Oro,M
+C0881,Martina Sanz,Individual,Bronce,F
+C0512,Pablo Moreno,Recurrente,Oro,M
+C0115,Carmen García,Nuevo,Plata,F
+git config --global user.email "speralvarez@gmail.com"
+  git config --global user.name "sergio"
