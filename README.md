@@ -1,35 +1,19 @@
-# EcoMarket BI Project
-
-Proyecto final de Business Intelligence - 2º DAM
-
-## 👥 Integrantes
-- Daniel (Leader)
-- Sergio
-- Adri
-
-## 📂 Estructura
-- data_raw → Datos originales
-- powerbi → Archivo .pbix
-- presentation → PowerPoint final
-
----
-
 ## 🚀 Cómo usar GitHub correctamente
 
 ### 🔹 Descargar proyecto por primera vez
-git clone URL_DEL_REPO
+- git clone URL_DEL_REPO
 
 ---
 
 ### 🔹 Antes de trabajar SIEMPRE hacer:
-git pull origin main
+- git pull origin main
 
 ---
 
 ### 🔹 Después de hacer cambios:
-git add .
-git commit -m "Descripción del cambio"
-git push origin main
+- git add . 
+- git commit -m "Descripción del cambio"
+- git push origin main
 
 ---
 
