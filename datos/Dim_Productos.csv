@@ -1,12 +1,32 @@
-ProductoID,Nombre_Producto,Categoria,Subcategoria,Precio_Sugerido
-P123,Detergente Bio Lavanda 1L,Limpieza,Hogar,12.50
-P143,Champú Sólido Ortiga y Menta,Cuidado Personal,Higiene,8.90
-P100,Cepillo de Dientes Bambú Pack x4,Cuidado Personal,Higiene,11.20
-P083,Bolsa de Reutilizable Algodón M,Accesorios,Moda Etica,4.50
-P053,Aceite de Oliva Virgen Extra Eco 500ml,Alimentación,Despensa,14.90
-P054,Quinoa Real Blanca Orgánica 500g,Alimentación,Granos,6.30
-P016,Vino Tinto Ecológico D.O. Rioja,Alimentación,Bodega,18.00
-P117,Crema Solar Mineral FPS50,Cuidado Personal,Cosmética,22.40
-P106,Té Matcha en Polvo Ceremonial,Alimentación,Bebidas,25.00
-P062,Snack de Garbanzos con Especias,Alimentación,Aperitivos,3.20
-P038,Harina de Almendra Integral 250g,Alimentación,Repostería,7.50
+ProductoID,Nombre_Producto,Categoria,Subcategoria,Precio_Sugerido,Marca,Costo_Estandar
+P123,Detergente Bio Lavanda 1L,Limpieza,Hogar,12.50,EcoLife,5.14
+P143,Champú Sólido Ortiga y Menta,Cuidado Personal,Higiene,8.90,GreenEarth,5.51
+P100,Cepillo de Dientes Bambú Pack x4,Cuidado Personal,Higiene,11.20,BioPure,5.68
+P083,Bolsa de Reutilizable Algodón M,Accesorios,Moda Etica,4.50,Organix,2.72
+P053,Aceite de Oliva Virgen Extra Eco 500ml,Alimentación,Despensa,14.90,Organix,10.29
+P054,Quinoa Real Blanca Orgánica 500g,Alimentación,Granos,6.30,PureFlow,4.21
+P016,Vino Tinto Ecológico D.O. Rioja,Alimentación,Bodega,18.00,EcoLife,10.55
+P117,Crema Solar Mineral FPS50,Cuidado Personal,Cosmética,22.40,BioPure,11.33
+P106,Té Matcha en Polvo Ceremonial,Alimentación,Bebidas,25.00,NatureMarket,13.70
+P062,Snack de Garbanzos con Especias,Alimentación,Aperitivos,3.20,PureFlow,1.75
+P038,Harina de Almendra Integral 250g,Alimentación,Repostería,7.50,Organix,3.09
+P004,Producto Eco P004,Cuidado Personal,Dental,47.89,GreenEarth,28.91
+P027,Producto Eco P027,Alimentación,Verdura,25.73,NatureMarket,16.47
+P061,Producto Eco P061,Limpieza,Ropa,38.19,BioPure,20.45
+P002,Producto Eco P002,Cuidado Personal,Dental,44.53,GreenEarth,18.64
+P048,Producto Eco P048,Limpieza,Baño,38.54,PureFlow,25.08
+P011,Producto Eco P011,Cuidado Personal,Pelo,11.08,Organix,6.83
+P103,Producto Eco P103,Alimentación,Verdura,14.19,BioPure,5.68
+P126,Producto Eco P126,Alimentación,Verdura,36.78,BioPure,25.30
+P046,Producto Eco P046,Limpieza,Cocina,49.40,PureFlow,28.80
+P019,Producto Eco P019,Limpieza,Ropa,7.22,PureFlow,4.26
+P115,Producto Eco P115,Limpieza,Ropa,17.33,GreenEarth,10.41
+P007,Producto Eco P007,Limpieza,Ropa,10.21,GreenEarth,5.20
+P059,Producto Eco P059,Alimentación,Pasta,16.19,GreenEarth,9.42
+P105,Producto Eco P105,Alimentación,Fruta,36.86,GreenEarth,20.06
+P076,Producto Eco P076,Alimentación,Pasta,40.49,Organix,21.70
+P012,Producto Eco P012,Limpieza,Ropa,48.19,Organix,24.54
+P082,Producto Eco P082,Alimentación,Verdura,24.25,NatureMarket,12.95
+P040,Producto Eco P040,Cuidado Personal,Pelo,44.09,GreenEarth,19.67
+P128,Producto Eco P128,Alimentación,Conservas,48.15,BioPure,24.89
+P078,Producto Eco P078,Cuidado Personal,Dental,8.77,BioPure,5.89

@@ -1,8 +1,36 @@
-ClienteID,Nombre_Cliente,Segmento,Nivel_Fidelidad,Genero
-C0436,Elena Rodríguez,Corporativo,Platino,F
-C0304,Javier López,Individual,Oro,M
-C0881,Martina Sanz,Individual,Bronce,F
-C0512,Pablo Moreno,Recurrente,Oro,M
-C0115,Carmen García,Nuevo,Plata,F
-git config --global user.email "speralvarez@gmail.com"
-  git config --global user.name "sergio"
+ClienteID,Nombre_Cliente,Nivel_Fidelidad,Genero,Email,Fecha_Nacimiento,Fecha_Alta
+C0436,Elena Rodríguez,Platino,F,elena.rodriguez@gmail.com,02/12/1962,12/02/2022
+C0304,Javier López,Oro,M,javier.lopez@outlook.com,06/11/2000,25/03/2023
+C0881,Martina Sanz,Bronce,F,martina.sanz@ecoasociados.es,13/01/1972,02/10/2022
+C0512,Pablo Moreno,Oro,M,pablo.moreno@hotmail.com,11/06/2002,03/08/2024
+C0115,Carmen García,Plata,F,carmen.garcia@ecoasociados.es,12/01/1971,18/09/2022
+C0184,Maria Fernandez,Platino,F,maria.fernandez@hotmail.com,07/01/1973,21/03/2024
+C0465,Maria Garcia,Oro,M,maria.garcia@ecoasociados.es,20/11/1997,08/08/2022
+C0154,Hugo Gomez,Plata,M,hugo.gomez@gmail.com,26/06/1981,14/03/2023
+C0579,Lucia Martinez,Plata,M,lucia.martinez@outlook.com,20/11/2004,02/04/2024
+C0988,Juan Sanchez,Plata,F,juan.sanchez@ecoasociados.es,03/09/2005,07/03/2024
+C0865,Adrian Martin,Plata,M,adrian.martin@gmail.com,14/07/2002,04/09/2022
+C0041,Antonio Garcia,Platino,F,antonio.garcia@ecoasociados.es,14/02/1971,02/06/2022
+C0141,Laura Fernandez,Bronce,M,laura.fernandez@outlook.com,02/10/1987,04/02/2023
+C0882,Daniel Gomez,Plata,M,daniel.gomez@outlook.com,16/08/1980,07/01/2024
+C0046,Jose Martin,Bronce,F,jose.martin@outlook.com,27/08/1990,16/08/2024
+C0801,Francisco Rodriguez,Oro,F,francisco.rodriguez@gmail.com,04/04/1963,09/12/2022
+C0928,Hugo Rodriguez,Oro,M,hugo.rodriguez@ecoasociados.es,12/01/1962,28/03/2024
+C0940,Francisco Garcia,Oro,M,francisco.garcia@ecoasociados.es,01/02/1960,02/05/2022
+C0395,Adrian Rodriguez,Plata,M,adrian.rodriguez@outlook.com,15/09/1984,16/12/2022
+C0044,Diego Sanchez,Oro,M,diego.sanchez@outlook.com,23/11/1961,01/10/2024
+C0494,Laura Martinez,Bronce,M,laura.martinez@ecoasociados.es,05/05/1970,25/11/2023
+C0938,Sara Martin,Plata,M,sara.martin@outlook.com,08/09/1972,01/06/2023
+C0784,Maria Lopez,Oro,F,maria.lopez@outlook.com,24/02/1994,07/11/2024
+C0973,Maria Martinez,Plata,F,maria.martinez@hotmail.com,26/05/1978,20/09/2024
+C0562,Sara Martinez,Plata,M,sara.martinez@hotmail.com,04/05/1975,13/05/2024
+C0212,Maria Rodriguez,Platino,M,maria.rodriguez@outlook.com,05/06/1974,18/04/2022
+C0781,Jose Garcia,Plata,M,jose.garcia@outlook.com,24/02/1974,01/10/2023
+C0002,Lucia Martin,Bronce,M,lucia.martin@hotmail.com,11/01/1967,26/03/2024
+C0982,Antonio Fernandez,Oro,F,antonio.fernandez@hotmail.com,07/07/1963,15/05/2024
+C0708,David Sanchez,Plata,M,david.sanchez@hotmail.com,13/11/1962,01/01/2024
+C0738,Sara Gomez,Platino,M,sara.gomez@gmail.com,26/04/1989,15/03/2023
+C0528,Jose Rodriguez,Oro,F,jose.rodriguez@outlook.com,04/06/1980,27/04/2023
+C0660,Sara Perez,Bronce,F,sara.perez@ecoasociados.es,06/02/2000,22/02/2024
+C0096,Hugo Rodriguez,Bronce,M,hugo.rodriguez@gmail.com,25/05/1965,22/07/2022
+C0658,David Fernandez,Oro,M,david.fernandez@outlook.com,20/04/1973,16/09/2024

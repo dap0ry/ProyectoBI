@@ -1,7 +1,17 @@
-TiendaID,Ciudad,Region,Tipo_Tienda,Superficie_m2
-T009,Madrid,Centro,Flagship Store,450
-T013,Barcelona,Cataluña,Tienda de Barrio,120
-T005,Valencia,Levante,Supermercado Eco,300
-T021,Sevilla,Andalucía,Boutique Gourmet,85
-T001,Bilbao,Norte,Express,110
-T010,Zaragoza,Aragón,Supermercado Eco,280
+TiendaID,Ciudad,Region,Superficie_m2,Aforo_Max,Horario
+T009,Madrid,Centro,450,111,L-S 08:30-20:30
+T013,Barcelona,Cataluña,120,89,L-S 09:00-21:00
+T005,Valencia,Levante,300,124,L-S 08:30-20:30
+T021,Sevilla,Andalucía,85,122,L-S 08:30-20:30
+T001,Bilbao,Norte,110,130,L-S 09:00-21:00
+T010,Zaragoza,Aragón,280,124,L-S 09:00-21:00
+T002,Sevilla,Andalucía,210,160,L-S 09:00-21:00
+T003,Málaga,Andalucía,180,131,L-D 10:00-22:00
+T004,Madrid,Centro,500,149,L-D 10:00-22:00
+T006,Valencia,Levante,320,137,L-D 10:00-22:00
+T007,Alicante,Levante,150,90,L-S 09:00-21:00
+T008,Bilbao,Norte,140,76,L-S 08:30-20:30
+T011,Valladolid,Castilla,200,68,L-S 09:00-21:00
+T012,Santiago,Galicia,130,85,L-D 10:00-22:00
+T014,Palma,Baleares,250,114,L-S 09:00-21:00
+T015,Murcia,Levante,190,118,L-S 09:00-21:00

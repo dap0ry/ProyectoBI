@@ -1,6 +1,21 @@
-EmpleadoID,Nombre_Empleado,Puesto,Turno,Fecha_Ingreso
-E000,Administrador Sistema,IT/Soporte,Central,01/01/2022
-E004,Ana Martínez Pérez,Asesor de Ventas,Mañana,15/03/2023
-E012,Carlos Ruiz Galán,Cajero Senior,Tarde,10/06/2023
-E007,Lucía Fernández,Gerente de Tienda,Rotativo,02/02/2023
-E015,Jorge Herranz,Reponedor Especialista,Noche,20/08/2023
+EmpleadoID,Nombre_Empleado,Puesto,Turno,Fecha_Ingreso,Salario_Base
+E000,Administrador Sistema,IT/Soporte,Central,01/01/2022,1310
+E004,Ana Martínez Pérez,Asesor de Ventas,Mañana,15/03/2023,1393
+E012,Carlos Ruiz Galán,Cajero Senior,Tarde,10/06/2023,1811
+E007,Lucía Fernández,Gerente de Tienda,Rotativo,02/02/2023,2579
+E015,Jorge Herranz,Reponedor Especialista,Noche,20/08/2023,1970
+E064,Laura Fernandez Staff,Auxiliar de Almacén,Mañana,24/10/2023,1369
+E016,Jose Gomez Staff,Gerente de Tienda,Noche,13/02/2023,2617
+E017,Hugo Lopez Staff,Asesor de Ventas,Central,15/02/2023,1578
+E072,Lucia Rodriguez Staff,Auxiliar de Almacén,Tarde,21/09/2023,1426
+E046,Jose Gomez Staff,Asesor de Ventas,Tarde,09/09/2023,1434
+E077,Lucia Gonzalez Staff,Auxiliar de Almacén,Rotativo,17/06/2023,1228
+E059,Hugo Martin Staff,Auxiliar de Almacén,Tarde,27/07/2023,1238
+E054,Adrian Perez Staff,Reponedor Especialista,Mañana,08/06/2023,2090
+E079,Diego Fernandez Staff,Gerente de Tienda,Noche,28/11/2023,3255
+E060,Marta Gonzalez Staff,Auxiliar de Almacén,Central,04/01/2023,1548
+E066,Juan Garcia Staff,Gerente de Tienda,Tarde,24/07/2023,3021
+E083,Laura Sanchez Staff,Auxiliar de Almacén,Noche,07/02/2023,1400
+E065,Diego Fernandez Staff,Gerente de Tienda,Mañana,18/12/2023,2984
+E070,Paula Martin Staff,Asesor de Ventas,Rotativo,05/07/2023,1268
+E032,Sara Rodriguez Staff,Asesor de Ventas,Tarde,09/11/2023,1324
