@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Inteligence</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <header class="hero section">
+        <div class="hero-content animate-on-scroll">
+            <h1>Business Inteligence</h1>
+            <h2>dashboard de visualizacion de datos en powerBI para un cliente de un supermercado EcoMarket</h2>
+            <div class="team-members">
+                <p>Integrantes del grupo:</p>
+                <ul>
+                    <li>daniel poza</li>
+                    <li>sergio peralvarez</li>
+                    <li>adrian noguera</li>
+                </ul>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span>Scroll hacia abajo</span>
+            <div class="arrow"></div>
+        </div>
+    </header>
+
+    <section class="intro section">
+        <div class="container animate-on-scroll">
+            <h2>Introducción</h2>
+            <p>En este proyecto hemos desarrollado una solución de Business Intelligence para el supermercado EcoMarket
+                utilizando PowerBI. A continuación, te guiaremos a través de todo el proceso, desde la obtención de los
+                datos hasta la creación de paneles de visualización interactivos.</p>
+        </div>
+    </section>
+
+    <section class="timeline-section section">
+        <div class="timeline">
+            <div class="timeline-item left animate-on-scroll">
+                <div class="timeline-content">
+                    <h3>Datos en bruto</h3>
+                    <p>Explicamos de donde vienen los datos en bruto de nuestro supermercado. Recopilamos información
+                        sobre ventas, productos, clientes y tiendas a partir de las bases de datos transaccionales y
+                        archivos del supermercado para centralizar la información.</p>
+                </div>
+            </div>
+
+            <div class="timeline-item right animate-on-scroll">
+                <div class="timeline-content">
+                    <h3>ETL</h3>
+                    <p>Limpiar datos estructurarlos y dejarlos listos para el analisis aqui se explica el proceso de
+                        carga y trasformacion en PowerBi. Utilizamos Power Query para eliminar duplicados, tratar
+                        valores nulos y dar el formato correcto a cada columna.</p>
+                </div>
+            </div>
+
+            <div class="timeline-item left animate-on-scroll">
+                <div class="timeline-content">
+                    <h3>Modelado</h3>
+                    <p>Aquí explicamos como conectamos las tablas las relaciones y todo eso. Establecimos un modelo de
+                        datos en estrella, definiendo relaciones entre las tablas de dimensiones (clientes, productos,
+                        fechas) y la tabla de hechos (ventas).</p>
+                </div>
+            </div>
+
+            <div class="timeline-item right animate-on-scroll">
+                <div class="timeline-content">
+                    <h3>Calendario y Medidas</h3>
+                    <p>Creamos una tabla calendario personalizada para poder hacer inteligencia de tiempo y definimos
+                        medidas en lenguaje DAX (como ventas totales, crecimiento porcentual, etc.) que alimentan
+                        nuestras visualizaciones.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="dashboard-showcase section">
+        <div class="container animate-on-scroll">
+            <h2>Resultados en PowerBI</h2>
+            <p>A continuación se muestra todo lo que hemos hecho en el PowerBI con capturas de nuestro trabajo.</p>
+
+            <div class="gallery">
+                <div class="gallery-item animate-on-scroll">
+                    <div class="placeholder-img">Captura del Dashboard 1</div>
+                    <h3>Vista General</h3>
+                    <p>Análisis global de los KPIs más importantes de EcoMarket.</p>
+                </div>
+                <div class="gallery-item animate-on-scroll">
+                    <div class="placeholder-img">Captura del Dashboard 2</div>
+                    <h3>Análisis de Clientes</h3>
+                    <p>Segmentación y comportamiento de los clientes del supermercado.</p>
+                </div>
+                <div class="gallery-item animate-on-scroll">
+                    <div class="placeholder-img">Captura del Dashboard 3</div>
+                    <h3>Evolución Temporal</h3>
+                    <p>Análisis de ventas a lo largo del tiempo utilizando las medidas DAX creados.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
